@@ -1,0 +1,10 @@
+code: testsimone-bundle
+description: This is the testSimone bundle
+
+components:
+  plugins:
+    - plugins/testsimone-plugin.yaml
+
+  widgets:
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
